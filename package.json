@@ -21,5 +21,6 @@
   "scripts": {
     "format": "prettier-eslint --write \"./**/*.js\" --ignore \"./node_modules/**\" ",
     "lint": "eslint --ext .js --ignore-path .gitignore ."
-  }
+  },
+  "dependencies": {}
 }

@@ -22,7 +22,7 @@ module.exports = {
 }
 ```
 
-### Add additional options to sitemap section of nuxt.config.js to override defaults
+### Add additional options to healthcheck section of nuxt.config.js to override defaults
 
 ```
 healthcheck: {
